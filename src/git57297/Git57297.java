@@ -16,8 +16,8 @@ public class Git57297 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String nombre = 'Alexander';
-        String matricula = '57297';
+        String nombre ='Alexander';
+        String matricula ='57297';
         
         System.out.println("Soy " + nombre 'mi matricula es ' + matricula);
         
