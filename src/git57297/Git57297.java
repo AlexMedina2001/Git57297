@@ -22,6 +22,7 @@ public class Git57297 {
         System.out.println("Soy " + nombre 'mi matricula es ' + matricula);
         
         int sueldo =1000;
+        int dinero=500;
     }
     
 }
